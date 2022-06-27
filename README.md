@@ -20,7 +20,7 @@ Verilerini  Python Scrapy ile cekiniz.
 ![image](https://user-images.githubusercontent.com/48917695/175879760-e98e119b-bcdf-4829-8db3-51577d6d0362.png)
 
 
-### Odev: Instagram takipcilerinizin kullanici adlarini scrap etme.
+### Odev 2: Instagram takipcilerinizin kullanici adlarini scrap etme.
 
 1- Python Selenium kutuphanesi kullanilacak
 2- Takipcilerinizin 12 kullanicisinin verilerini cekin
