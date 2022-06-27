@@ -22,9 +22,9 @@ Verilerini  Python Scrapy ile cekiniz.
 
 ### Odev 2: Instagram takipcilerinizin kullanici adlarini scrap etme.
 
-1- Python Selenium kutuphanesi kullanilacak
-2- Takipcilerinizin 12 kullanicisinin verilerini cekin
-3- (Zorunlu degil) takipcilerinizin tamaminin kullanicisinin verilerini cekin.
+1. Python Selenium kutuphanesi kullanilacak
+2. Takipcilerinizin 12 kullanicisinin verilerini cekin
+3. (Zorunlu degil) takipcilerinizin tamaminin kullanicisinin verilerini cekin.
 
 #### Ornek output
 
